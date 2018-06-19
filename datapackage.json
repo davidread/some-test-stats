@@ -1,0 +1,1 @@
+{"name":"some-test-stats","title":"Some test stats","description":"A test description","licenses":[{"url":"https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/","title":"Open Government Licence 3.0 (United Kingdom)"}],"publishers":[{"name":null,"web":null}],"resources":[{"name":"2015","mediatype":"text/csv","description":"","path":"data/2015.csv"}]}
